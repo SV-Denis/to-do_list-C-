@@ -1,0 +1,7 @@
+﻿  prog.cpp
+C:\Users\denis\Downloads\prog\prog\prog.cpp(33,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\denis\Downloads\prog\prog\prog.cpp(68,10): warning C4101: 'fulltask': unreferenced local variable
+C:\Users\denis\Downloads\prog\prog\prog.cpp(210,10): warning C4101: 's': unreferenced local variable
+C:\Users\denis\Downloads\prog\prog\prog.cpp(274,14): warning C4101: 'in': unreferenced local variable
+C:\Users\denis\Downloads\prog\prog\prog.cpp(400,9): warning C4101: 'task': unreferenced local variable
+  prog.vcxproj -> C:\Users\denis\Downloads\prog\x64\Debug\prog.exe
